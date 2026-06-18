@@ -14,4 +14,4 @@ One high-conviction Indian stock per month. The idea is simple: find a small or 
 
 | Month | Company | Sector | Entry Price | Pick Date |
 |---|---|---|---|---|
-| [June 2026](picks/2026-06.md) | Emmvee Photovoltaic Power Ltd | Solar Manufacturing (ALMM) | ₹330–345 | 2026-06-18 |
+| [June 2026](picks/2026-06.md) | Emmvee Photovoltaic Power Ltd | Solar Manufacturing (ALMM) | ₹330–345 | 2026-06-18 | INA (Insolation Energy) — watchlist |
